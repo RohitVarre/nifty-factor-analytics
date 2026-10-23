@@ -1,0 +1,17 @@
+# Versions verified in the conda env `main` (Python 3.10)
+dash==3.3.0
+dash-bootstrap-components==2.0.4
+plotly==6.5.2
+pandas==2.3.3
+numpy==2.2.6
+scipy==1.15.3
+requests==2.32.5
+# notebook only
+matplotlib==3.10.8
+seaborn==0.13.2
+nbconvert==7.16.6
+
+# dev tools
+ruff==0.17.1
+pyright==1.1.414
+pytest==9.1.1

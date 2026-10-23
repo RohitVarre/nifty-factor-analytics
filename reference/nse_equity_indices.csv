@@ -1,0 +1,155 @@
+index,nse_category,in_dashboard,tri_history_start
+NIFTY 100,Broad Market Indices,no,not checked
+NIFTY 200,Broad Market Indices,no,not checked
+NIFTY 50,Broad Market Indices,yes,2005-04-01
+NIFTY 500,Broad Market Indices,yes,2005-04-01
+NIFTY INDIA FPI 150,Broad Market Indices,no,not checked
+NIFTY LARGEMIDCAP 250,Broad Market Indices,no,not checked
+NIFTY MICROCAP 250,Broad Market Indices,yes,2005-04-01
+NIFTY MIDCAP 100,Broad Market Indices,no,not checked
+NIFTY MIDCAP 150,Broad Market Indices,yes,2005-04-01
+NIFTY MIDCAP 50,Broad Market Indices,no,not checked
+NIFTY MIDCAP SELECT,Broad Market Indices,no,not checked
+NIFTY MIDSMALLCAP 400,Broad Market Indices,no,not checked
+NIFTY MIDSMALLCAP400 50:50,Broad Market Indices,yes,2005-04-01
+NIFTY NEXT 100,Broad Market Indices,no,not checked
+NIFTY NEXT 50,Broad Market Indices,yes,2005-04-01
+NIFTY SMALLCAP 100,Broad Market Indices,no,not checked
+NIFTY SMALLCAP 250,Broad Market Indices,yes,2005-04-01
+NIFTY SMALLCAP 50,Broad Market Indices,no,not checked
+NIFTY SMALLCAP 500,Broad Market Indices,yes,2005-04-01
+NIFTY TOTAL MARKET,Broad Market Indices,yes,2005-04-01
+NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED,Broad Market Indices,yes,2005-04-01
+NIFTY500 MULTICAP 50:25:25,Broad Market Indices,yes,2005-04-01
+NIFTY AUTO,Sectoral Indices,no,not checked
+NIFTY BANK,Sectoral Indices,no,not checked
+NIFTY CAPITAL GOODS,Sectoral Indices,no,not checked
+NIFTY CEMENT,Sectoral Indices,no,not checked
+NIFTY CHEMICALS,Sectoral Indices,no,not checked
+NIFTY COMMERCIAL & TRANSPORT SERVICES,Sectoral Indices,no,not checked
+NIFTY CONSTRUCTION,Sectoral Indices,no,not checked
+NIFTY CONSUMER DURABLES,Sectoral Indices,no,not checked
+NIFTY CONSUMER SERVICES,Sectoral Indices,no,not checked
+NIFTY FINANCIAL SERVICES,Sectoral Indices,no,not checked
+NIFTY FINANCIAL SERVICES 25/50,Sectoral Indices,no,not checked
+NIFTY FINANCIAL SERVICES EX-BANK,Sectoral Indices,no,not checked
+NIFTY FMCG,Sectoral Indices,no,not checked
+NIFTY HEALTHCARE,Sectoral Indices,no,not checked
+NIFTY HOSPITALS,Sectoral Indices,no,not checked
+NIFTY HOUSING FINANCE,Sectoral Indices,no,not checked
+NIFTY INSURANCE,Sectoral Indices,no,not checked
+NIFTY IT,Sectoral Indices,no,not checked
+NIFTY MEDIA,Sectoral Indices,no,not checked
+NIFTY METAL,Sectoral Indices,no,not checked
+NIFTY MIDSMALL FINANCIAL SERVICES,Sectoral Indices,no,not checked
+NIFTY MIDSMALL HEALTHCARE,Sectoral Indices,no,not checked
+NIFTY MIDSMALL IT & TELECOM,Sectoral Indices,no,not checked
+NIFTY NBFC,Sectoral Indices,no,not checked
+NIFTY OIL & GAS,Sectoral Indices,no,not checked
+NIFTY PHARMA,Sectoral Indices,no,not checked
+NIFTY POWER,Sectoral Indices,no,not checked
+NIFTY PRIVATE BANK,Sectoral Indices,no,not checked
+NIFTY PSU BANK,Sectoral Indices,no,not checked
+NIFTY REALTY,Sectoral Indices,no,not checked
+NIFTY REITS & REALTY,Sectoral Indices,no,not checked
+NIFTY RETAIL,Sectoral Indices,no,not checked
+NIFTY TELECOMMUNICATIONS,Sectoral Indices,no,not checked
+NIFTY500 HEALTHCARE,Sectoral Indices,no,not checked
+NIFTY 50 ARBITRAGE,Strategy Indices,no,not checked
+NIFTY 50 FUTURES PR,Strategy Indices,no,not checked
+NIFTY 50 FUTURES TR,Strategy Indices,no,not checked
+NIFTY ALPHA 50,Strategy Indices,yes,2005-04-01
+NIFTY ALPHA LOW-VOLATILITY 30,Strategy Indices,yes,2005-04-01
+NIFTY ALPHA QUALITY LOW-VOLATILITY 30,Strategy Indices,yes,2005-04-01
+NIFTY ALPHA QUALITY VALUE LOW-VOLATILITY 30,Strategy Indices,yes,2005-04-01
+NIFTY DIVIDEND OPPORTUNITIES 50,Strategy Indices,no,2007-10-01
+NIFTY GROWTH SECTORS 15,Strategy Indices,no,2009-01-01
+NIFTY HIGH BETA 50,Strategy Indices,yes,2005-04-01
+NIFTY HIGH DIVIDEND YIELD 15,Strategy Indices,yes,2005-04-01
+NIFTY LOW VOLATILITY 50,Strategy Indices,yes,2005-04-01
+NIFTY MIDCAP150 MOMENTUM 50,Strategy Indices,yes,2005-04-01
+NIFTY MIDCAP150 QUALITY 50,Strategy Indices,yes,2005-04-01
+NIFTY MIDSMALLCAP400 MOMENTUM QUALITY 100,Strategy Indices,yes,2005-04-01
+NIFTY QUALITY LOW-VOLATILITY 30,Strategy Indices,yes,2005-04-01
+NIFTY SMALLCAP250 MOMENTUM QUALITY 100,Strategy Indices,yes,2005-04-01
+NIFTY SMALLCAP250 QUALITY 50,Strategy Indices,yes,2005-04-01
+NIFTY TOP 10 EQUAL WEIGHT,Strategy Indices,no,2006-03-02
+NIFTY TOP 15 EQUAL WEIGHT,Strategy Indices,no,2006-03-02
+NIFTY TOP 20 EQUAL WEIGHT,Strategy Indices,no,2006-03-02
+NIFTY TOTAL MARKET MOMENTUM QUALITY 50,Strategy Indices,yes,2005-04-01
+NIFTY100 ALPHA 30,Strategy Indices,yes,2005-04-01
+NIFTY100 EQUAL WEIGHT,Strategy Indices,yes,2005-04-01
+NIFTY100 LOW VOLATILITY 30,Strategy Indices,yes,2005-04-01
+NIFTY100 QUALITY 30,Strategy Indices,no,2009-10-01
+NIFTY200 ALPHA 30,Strategy Indices,yes,2005-04-01
+NIFTY200 MOMENTUM 30,Strategy Indices,yes,2005-04-01
+NIFTY200 QUALITY 30,Strategy Indices,yes,2005-04-01
+NIFTY200 VALUE 30,Strategy Indices,yes,2005-04-01
+NIFTY50 DIVIDEND POINTS,Strategy Indices,no,not checked
+NIFTY50 EQUAL WEIGHT,Strategy Indices,yes,2005-04-01
+NIFTY50 PR 1X INVERSE,Strategy Indices,no,not checked
+NIFTY50 PR 2X LEVERAGE,Strategy Indices,no,not checked
+NIFTY50 TR 1X INVERSE,Strategy Indices,no,not checked
+NIFTY50 TR 2X LEVERAGE,Strategy Indices,no,not checked
+NIFTY50 USD,Strategy Indices,no,not checked
+NIFTY50 VALUE 20,Strategy Indices,no,2009-01-01
+NIFTY500 EQUAL WEIGHT,Strategy Indices,yes,2005-04-01
+NIFTY500 FLEXICAP QUALITY 30,Strategy Indices,no,2009-10-01
+NIFTY500 GROWTH 50,Strategy Indices,yes,2005-04-01
+NIFTY500 LOW VOLATILITY 50,Strategy Indices,yes,2005-04-01
+NIFTY500 MOMENTUM 50,Strategy Indices,yes,2005-04-01
+NIFTY500 MULTICAP MOMENTUM QUALITY 50,Strategy Indices,yes,2005-04-01
+NIFTY500 MULTIFACTOR MQVLV 50,Strategy Indices,yes,2005-04-01
+NIFTY500 QUALITY 50,Strategy Indices,yes,2005-04-01
+NIFTY500 VALUE 50,Strategy Indices,yes,2005-04-01
+NIFTY AI CATALYSTS,Thematic Indices,no,not checked
+NIFTY CAPITAL MARKETS,Thematic Indices,no,not checked
+NIFTY COMMODITIES,Thematic Indices,no,not checked
+NIFTY CONGLOMERATE 50,Thematic Indices,no,not checked
+NIFTY CORE HOUSING,Thematic Indices,no,not checked
+NIFTY CPSE,Thematic Indices,no,not checked
+NIFTY ENERGY,Thematic Indices,no,not checked
+NIFTY EV & NEW AGE AUTOMOTIVE,Thematic Indices,no,not checked
+NIFTY HOUSING,Thematic Indices,no,not checked
+NIFTY INDIA CONSUMPTION,Thematic Indices,no,not checked
+NIFTY INDIA CORPORATE GROUP INDEX - ADITYA BIRLA GROUP,Thematic Indices,no,not checked
+NIFTY INDIA CORPORATE GROUP INDEX - MAHINDRA GROUP,Thematic Indices,no,not checked
+NIFTY INDIA CORPORATE GROUP INDEX - TATA GROUP,Thematic Indices,no,not checked
+NIFTY INDIA CORPORATE GROUP INDEX - TATA GROUP 25% CAP,Thematic Indices,no,not checked
+NIFTY INDIA DEFENCE,Thematic Indices,no,not checked
+NIFTY INDIA DEFENCE EQUAL WEIGHT,Thematic Indices,no,not checked
+NIFTY INDIA DIGITAL,Thematic Indices,no,not checked
+NIFTY INDIA INFRASTRUCTURE & LOGISTICS,Thematic Indices,no,not checked
+NIFTY INDIA INTERNET,Thematic Indices,no,not checked
+NIFTY INDIA MANUFACTURING,Thematic Indices,no,not checked
+NIFTY INDIA NEW AGE CONSUMPTION,Thematic Indices,no,not checked
+NIFTY INDIA RAILWAYS PSU,Thematic Indices,no,not checked
+NIFTY INDIA SELECT 5 CORPORATE GROUPS (MAATR),Thematic Indices,no,not checked
+NIFTY INDIA TOURISM,Thematic Indices,no,not checked
+NIFTY INFRASTRUCTURE,Thematic Indices,no,not checked
+NIFTY IPO,Thematic Indices,no,not checked
+NIFTY MIDCAP LIQUID 15,Thematic Indices,no,not checked
+NIFTY MIDSMALL INDIA CONSUMPTION,Thematic Indices,no,not checked
+NIFTY MNC,Thematic Indices,no,not checked
+NIFTY MOBILITY,Thematic Indices,no,not checked
+NIFTY NON-CYCLICAL CONSUMER,Thematic Indices,no,not checked
+NIFTY PSE,Thematic Indices,no,not checked
+NIFTY REITS & INVITS,Thematic Indices,no,not checked
+NIFTY REITS & INVITS 90:10,Thematic Indices,no,not checked
+NIFTY RURAL,Thematic Indices,no,not checked
+NIFTY SERVICES SECTOR,Thematic Indices,no,not checked
+NIFTY SHARIAH 25,Thematic Indices,no,not checked
+NIFTY SMALL FINANCE BANKS & MICROFINANCE INSTITUTIONS,Thematic Indices,no,not checked
+NIFTY SME EMERGE,Thematic Indices,no,not checked
+NIFTY SUGAR & ETHANOL,Thematic Indices,no,not checked
+NIFTY TRANSPORTATION & LOGISTICS,Thematic Indices,no,not checked
+NIFTY WAVES,Thematic Indices,no,not checked
+NIFTY100 ENHANCED ESG,Thematic Indices,no,not checked
+NIFTY100 ESG,Thematic Indices,no,not checked
+NIFTY100 ESG SECTOR LEADERS,Thematic Indices,no,not checked
+NIFTY100 LIQUID 15,Thematic Indices,no,not checked
+NIFTY50 SHARIAH,Thematic Indices,no,not checked
+NIFTY500 AHIMSA,Thematic Indices,no,not checked
+NIFTY500 MULTICAP INDIA MANUFACTURING 50:30:20,Thematic Indices,no,not checked
+NIFTY500 MULTICAP INFRASTRUCTURE 50:30:20,Thematic Indices,no,not checked
+NIFTY500 SHARIAH,Thematic Indices,no,not checked
